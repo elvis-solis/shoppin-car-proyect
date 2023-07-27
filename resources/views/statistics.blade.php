@@ -2,7 +2,7 @@
 
 @section('main')
 @livewire('statistics')
-@endsection
+@endsection 
 
 @section('sidebar')
 <section>
